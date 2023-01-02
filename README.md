@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rudra-writ
-- 👀 I’m interested in machine learning, deep learning, electronics, embeded systems, robotics and all other cool stuff out there...
-- 🌱 I’m currently learning robot operating systems, apart from master's in scientific instrumentation
-- 💞️ I’m looking to collaborate on almost anything that involves cool technology
+- 👀 I’m interested in Web development with python, machine learning, deep learning, electronics, embeded systems, robotics and all other cool stuff out there...
+- 🌱 I am Master's student, in the final stage of my Master's Thesis
+- 💞️ I’m looking to collaborate on everything that positively transforms the world with technology
 - 📫 How to reach me : rudrawrit0001@gmail.com
 
 <!---
